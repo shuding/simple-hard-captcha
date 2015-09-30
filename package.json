@@ -1,0 +1,24 @@
+{
+  "name": "simple-hard-captcha",
+  "version": "0.1.0",
+  "description": "Simple and hard captcha lib.",
+  "main": "simple-hard-captcha.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/quietshu/simple-hard-captcha"
+  },
+  "author": [
+    "farter <yhr-_-yhr@qq.com>",
+    "Shu Ding <ds303077135@gmail.com>"
+  ],
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/quietshu/simple-hard-captcha/issues"
+  },
+  "homepage": "https://github.com/quietshu/simple-hard-captcha",
+  "dependencies": {
+    "canvas": "^1.2.9"
+  }
+}
