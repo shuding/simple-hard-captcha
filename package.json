@@ -1,13 +1,13 @@
 {
   "name": "simple-hard-captcha",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Simple and hard captcha lib.",
   "main": "simple-hard-captcha.js",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "github.com/quietshu/simple-hard-captcha"
+    "url": "https://github.com/quietshu/simple-hard-captcha"
   },
   "author": [
     "farter <yhr-_-yhr@qq.com>",

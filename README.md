@@ -18,7 +18,7 @@ shc.toDataUrl(); // get base64 string of captcha image
 ```
 
 ## Demo
-![demo](demo.png)
+![demo](https://github.com/quietshu/simple-hard-captcha/raw/master/demo.png)
 
 ## License
 WTFPL
