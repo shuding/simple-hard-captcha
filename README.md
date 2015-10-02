@@ -3,10 +3,16 @@ simple hard captcha
 
 [![npmjs](https://img.shields.io/npm/v/simple-hard-captcha.svg)](https://www.npmjs.com/package/simple-hard-captcha)
 
-## Usage
+## Get Started
 
+### Install
 `$ npm install simple-hard-captcha`
 
+Arial is a proprietary typeface to which Monotype Imaging owns all rights.
+
+So please replace your authorized Arial Black font (in Windows, OS X or MS Office, etc.) with the `static/ArialBlack` file :)
+
+### Usage
 ```javascript
 var SHC = require('simple-hard-captcha');
 
